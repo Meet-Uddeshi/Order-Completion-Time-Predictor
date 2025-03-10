@@ -1,6 +1,4 @@
-# **Movie Recommendation System**
-
-## **Project Summary**
+## ** Project Summary**
 ---
 
 ## ** Features**
@@ -12,7 +10,7 @@
 
 ---
 
-## **Purposes**
+## ** Purposes**
 - ** Improved Movie Discovery:** Helps users find enjoyable movies based on preferences.
 - ** Practical Data Science Application:** Demonstrates real-world ML applications.
 - ** Engaging Experience:** Enhances movie exploration with an interactive UI.
@@ -20,14 +18,14 @@
 
 ---
 
-## **Advantages**
+## ** Advantages**
 - ** Time-Saving:** Quickly finds relevant movie suggestions.
 - ** Enhanced User Experience:** Combines visuals with personalized recommendations.
 - ** Scalable:** Easily expandable with more genres, APIs, or additional features.
 
 ---
 
-## **Applications**
+## ** Applications**
 - ** Streaming Platforms:** Netflix, Prime Video, etc., can use it for personalized recommendations.
 - ** Entertainment Websites:** Suggests movies based on user preferences.
 - ** Personal Movie Libraries:** Helps organize and recommend movies from personal collections.
