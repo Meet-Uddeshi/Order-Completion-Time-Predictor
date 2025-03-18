@@ -79,7 +79,7 @@ def main():
     setup_ui()
     display_results(model)
     st.write("---")
-    st.write("📌 **Timelytics AI - Delivering Smarter Predictions!**")
+    st.write("📌 Order Delivering Time Smarter Predictions!**")
 
 # Step 8 => Run the app
 if __name__ == "__main__":
